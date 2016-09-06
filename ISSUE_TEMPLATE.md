@@ -12,9 +12,9 @@
 
 ## Test Case
 
-
-- [] Add criteria here
-- []
-- []
-- []
-- []
+- [ ] The application presents results as per entered criteria. 
+- [ ] Add criteria here
+- [ ]
+- [ ]
+- [ ]
+- [ ]
