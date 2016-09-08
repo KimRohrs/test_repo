@@ -1,5 +1,6 @@
 ## Use Case
 
+#### Requirement 
 
 ## Description
 
@@ -10,6 +11,6 @@
 ## Precondition
 
 
-## Test Case
+## Test case
 
-- [ ] Add criteria here
+- [ ] Add test case here
