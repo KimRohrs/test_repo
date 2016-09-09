@@ -12,7 +12,7 @@
 ## Test Precondition
 
 
-## Test case
+## Test Case
 
 - [ ] Add test case here
 
