@@ -1,6 +1,7 @@
 ## Use Case
 
 #### Requirement 
+#### Additional details
 
 ## Description
 
@@ -14,3 +15,5 @@
 ## Test case
 
 - [ ] Add test case here
+
+## Expected Result
